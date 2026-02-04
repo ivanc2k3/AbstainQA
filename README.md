@@ -2,6 +2,8 @@
 
 This is the official repo for [Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration](https://arxiv.org/abs/2402.00367) @ ACL 2024.
 
+🌟 **A better and general-purpose implementation of the multi-LLM feedback method, as well as many other multi-LLM collaboration approaches, is now available in [MoCo](https://github.com/BunsenFeng/model_collaboration)!**
+
 ### Environment
 
 ```
